@@ -1,5 +1,6 @@
 <h1>Azure Active Directory</h1>
-<b>This tutorial outlines the configuration and observation of Microsoft Azure's Active Directory hierarchy groups</b>
+
+- <b>This tutorial outlines the configuration and observation of Microsoft Azure's Active Directory hierarchy groups</b>
 
 <h2>Environments and Technologies Used</h2>
 
